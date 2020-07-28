@@ -1,0 +1,414 @@
+class:
+  class_name: 大佬
+  link_list:
+    1:
+      name: JerryC
+      link: https://demo.jerryc.me/
+      avatar: https://jerryc.me/image/avatar.png
+      descr: 今日事,今日畢
+    2:
+      name: 小康博客
+      link: https://www.antmoe.com/
+      avatar: https://img-blog.csdnimg.cn/20200426090634491.png
+      descr: 大二 Student，坐标🌏，喜欢上网冲浪🏄‍
+    
+
+      
+class2:
+  class_name: 主题博客
+  link_list:
+    1:
+      name: 冬马的白色相簿 
+      link: https://shimizublog.cn 
+      avatar: https://shimizublog.cn/smz.jpg 
+      descr: 你为什么这么熟练啊
+    2:
+      name: 墨蓝
+      link: https://blog.yfblog.xyz
+      avatar: https://blog.yfblog.xyz/tx.png
+      descr: 一只爱折腾的小小白
+    3:
+      name: Heven Kin 的博客
+      link: https://www.bugteam.cn
+      avatar: https://www.bugteam.cn/ico/header.jpg
+      descr: 努力学习，拯救世界
+    4:
+      name: 技术小仙
+      link: http://www.zhangxianshengnetgroup.cn
+      avatar: http://www.zhangxianshengnetgroup.cn/wp-content/uploads/2019/02/logo.jpg
+      descr: 本网站提供全栈开发资料和教学以及Kali、PS操作技巧，还有计算机软件的安装教程。欢迎访问，让我们一起学习。
+    5:
+      name: 润东小站
+      link: https://www.xiaoyingya.com
+      avatar: https://www.xiaoyingya.com/touxiang.jpg
+      descr: 一名热爱动漫AMV/MAD的14岁少年
+    6:  
+      name: shinycode
+      link: https://shinycode.gitee.io/
+      avatar: https://img-blog.csdnimg.cn/20200425120555206.png
+      descr: 愿你前程似锦
+    7:
+      name: Roger
+      link: https://www.worldjay.top/
+      avatar: https://img-blog.csdnimg.cn/20200426090852656.png
+      descr: 一只Java小菜鸡名字：Roger星座：双子  
+    8:
+      name: 赵俊
+      link: http://www.zhaojun.im/categories/
+      avatar: https://img-blog.csdnimg.cn/20200426091143206.png
+      descr: 一枚 Java 开发，努力学习中，博客文章多以笔记类型为主，为了方便以后查阅，希望这些文章可以帮助到更多的 Java 学习者。 
+
+
+  
+class3:
+  class_name: 知识分享媒体/课程资源
+  link_list:
+    1:
+      name: codesheep-b站
+      link: https://space.bilibili.com/384068749?from=search&seid=10365122227044295832 
+      avatar: https://img-blog.csdnimg.cn/20200616221947342.png
+      descr: 你为什么这么熟练啊
+    2:
+      name: 宋浩老师
+      link: https://space.bilibili.com/66607740/video
+      avatar: https://img-blog.csdnimg.cn/20200616221947342.png
+      descr: 专业
+    3:
+      name: coursera
+      link: https://www.coursera.org/
+      avatar: https://img-blog.csdnimg.cn/20200522105614430.png
+      descr: 国外mooc平台，精品资源
+    4:
+      name: edx
+      link: https://www.edx.org/
+      avatar: https://img-blog.csdnimg.cn/20200522110025279.png
+      descr: 来自国外的mooc网站/由哈佛，MIT大学创建...
+    5:
+      name: 可汗学院
+      link: https://www.youtube.com/user/khanacademy/search?query=english
+      avatar: https://img-blog.csdnimg.cn/20200522110844709.png
+      descr: 免费，公益，学习账号/平台  
+ 
+
+class4:
+  class_name: 工具/效率/学习
+  link_list:
+    1:
+      name: 幕布
+      link: https://mubu.com/list
+      avatar: https://mubu.com/asset/img/logo/text-0f5be2e426.png
+      descr: 思维整理的吧~
+    2:
+      name: sm.ms图床
+      link: https://sm.ms/
+      avatar: https://i.loli.net/2020/05/04/9S3dONsrz1J2U7u.png
+      descr: 没试过~~~，不过挺好用的,也是免费的
+    3:
+      name: 免费图床lsky pro 
+      link: http://img.jun6.net/
+      avatar: https://img-blog.csdnimg.cn/20200426013836756.png
+      descr: 没用过暂时
+    4:
+      name: 资源共享网
+      link: https://www.tooleyes.com/
+      avatar: https://img-blog.csdnimg.cn/20200518170240563.png
+      descr: 各种，各种资源的整合，分类详细
+    5:
+      name: 官网大全
+      link: https://guanwangdaquan.com/wikihow/
+      avatar: https://img-blog.csdnimg.cn/20200426091618223.png
+      descr: 没用过暂时
+    6:
+      name: 在线工具tool界面美观
+      link: https://tool.lu/
+      avatar: https://img-blog.csdnimg.cn/20200518171859929.png
+      descr: 建议推荐，it工具，电子书
+    7:
+      name: OSGEO中国
+      link: https://www.osgeo.cn/app/
+      avatar: https://img-blog.csdnimg.cn/20200518172116321.png
+      descr: 教程，工具
+    8:
+      name: ico图标制作
+      link: http://www.ico51.cn/
+      avatar: https://img-blog.csdnimg.cn/20200610092800744.png
+      descr: ico图标制作
+    9:
+      name: 词云工具
+      link: http://www.yciyun.com/
+      avatar: https://img-blog.csdnimg.cn/20200616203046755.png
+      descr: 词云在线工具 
+    10:
+      name: 清华大学开源软件镜像站
+      link: https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
+      avatar: https://img-blog.csdnimg.cn/20200620134356684.png
+      descr: 镜像站 
+ 
+
+
+
+class5:
+  class_name: 官方/专业/详细
+  link_list:
+    1:
+      name: bootstrap中文档 
+      link: https://v3.bootcss.com/components 
+      avatar: https://img-blog.csdnimg.cn/20200425233745469.png
+      descr:  Bootstrap来自 Twitter，是目前最受欢迎的前端框架。Bootstrap 是基于 HTML、CSS、JAVASCRIPT 的，它简洁灵活，使得 Web 开发更加快捷
+    2:
+      name: php中文网
+      link: https://www.php.cn/faq/438231.html
+      avatar: https://img-blog.csdnimg.cn/20200425234059277.png
+      descr: PHP即“超文本预处理器”，是一种通用开源脚本语言。PHP是在服务器端执行的脚本语言，与C语言类似，是常用的网站编程语言
+    3:
+      name: wwwschool中文
+      link: https://www.w3school.com.cn/
+      avatar: https://img-blog.csdnimg.cn/20200425234236494.png
+      descr: 一个系统学习前端和其它编程知识的地方
+    4:
+      name: 前端学习库
+      link: http://uyi2.com/
+      avatar: http://uyi2.com/images/logo1.png
+      descr: 本站专注web资料分享
+    5:
+      name: 菜鸟教程
+      link: https://www.runoob.com/
+      avatar: https://img-blog.csdnimg.cn/20200424154429425.png
+      descr: it专业系统教程    
+    6:
+      name: 廖雪峰
+      link: https://www.liaoxuefeng.com/
+      avatar: https://img-blog.csdnimg.cn/20200425235003811.png
+      descr: 你说专不专业？   
+    7:
+      name: how to java
+      link: https://how2j.cn/
+      avatar: data:image/png
+      descr: 系统全面的前端路线,java 
+    8:
+      name: c语言中文网
+      link: http://c.biancheng.net/
+      avatar: http://c.biancheng.net/templets/new/images/logo.png
+      descr: 编程启蒙，全面，深入
+    9:
+      name: python简明教程
+      link: https://learnku.com/docs/byte-of-python/2018/op_exp/3342
+      avatar: https://img-blog.csdnimg.cn/20200426000512351.png
+      descr: 最近发现的，不错
+    10:
+      name: 尚硅谷
+      link: http://www.atguigu.com/
+      avatar: http://www.atguigu.com/images/pic_new/logo.png
+      descr: 尚硅谷，上硅谷!
+    11:
+      name: 冷魅
+      link: http://xn--mxw.com/index/
+      avatar: https://img-blog.csdnimg.cn/20200616214154641.png
+      descr: 工具站，接口，编程
+    12:
+      name: 综合学习平台
+      link: http://m.ilxdh.com/
+      avatar: https://img-blog.csdnimg.cn/20200616203329161.png
+      descr: 综合型工具导航站
+    13:
+      name: 教程网-易百教程h
+      link: https://www.yiibai.com/data_structures_algorithms/
+      avatar: https://img-blog.csdnimg.cn/20200618145323572.png
+      descr: 教程网
+    14:
+      name: 极客学堂
+      link: https://ke.jikexueyuan.com/
+      avatar: https://e.jikexueyuan.com/headerandfooter/images/logo.png?t=1513326254000
+      descr:  it技术学习
+    15:
+      name: 实验楼
+      link: https://www.shiyanlou.com/courses/
+      avatar: https://static.shiyanlou.com/frontend/dist/img/9f43b00.svg
+      descr: it技术学习
+
+
+
+class6:
+  class_name: IT教程/资源
+  link_list:
+    1:
+      name: b站
+      link: https://www.bilibili.com/
+      avatar: https://img-blog.csdnimg.cn/20200426000656632.png
+      descr: 老生常谈的学习类视频网站了
+    2:
+      name: MSCTO
+      link: https://www.mscto.com/game/364162.html
+      avatar: https://www.mscto.com/wp-content/uploads/2020/01/mscto-5.png
+      descr: 感觉不错，IT技术
+    3:
+      name: 如鹏网
+      link: https://www.rupeng.com/index.shtml
+      avatar: https://static.rupeng.com/static/v20180410/images/cq58_01_03.png
+      descr: 呃~
+    4:
+      name: EGOUZ
+      link: https://www.egouz.com/books/
+      avatar: https://www.egouz.com/statics/images/egouz/logo.png
+      descr: 综合型导航网址
+    5:
+      name: SoJson
+      link: https://www.sojson.com/blog/
+      avatar: https://cdn.www.sojson.com/ui/images/blog.logo.png
+      descr: 技术博客
+    6:
+      name: 学堂在线
+      link: https://storagecdn.xuetangx.com
+      avatar: https://storagecdn.xuetangx.com/public_assets/xuetangx/bbs/cover/%E5%AD%A6%E5%A0%82%E6%97%A0%E5%9F%9F%E5%90%8Dlogo.png
+      descr: 官方MOOC
+
+class7:
+  class_name: 学术/解答
+  link_list:
+    1:
+      name: 知乎 
+      link: https://www.zhihu.com/
+      avatar: https://img-blog.csdnimg.cn/2020040516335258.png
+      descr:  知识型问答论坛，高手如云
+    2:
+      name: csdn
+      link: https://www.csdn.net/
+      avatar: https://csdnimg.cn/cdn/content-toolbar/csdn-logo.png?v=20200416.1
+      descr: 老牌国内it技术博客论坛
+    3:
+      name: 掘金
+      link: https://juejin.im/
+      avatar: https://img-blog.csdnimg.cn/20200405163435834.png
+      descr: 一高质量的it技术/其它解答网站
+    4:
+      name: google
+      link: http://www.google.com/
+      avatar: https://img-blog.csdnimg.cn/20200405155107826.png
+      descr: 404网站
+    5:
+      name: 博客园
+      link: https://www.cnblogs.com/
+      avatar: https://img-blog.csdnimg.cn/20200629210034266.png
+      descr: 印象中质量好的老牌it技术分享站
+    6:
+      name: wikhow
+      link: https://zh.wikihow.com/
+      avatar: https://img-blog.csdnimg.cn/2020042601373452.png
+      descr: 各种知识都有,必要时可以使用
+    7:
+      name: stackoverflow
+      link: https://stackoverflow.com/
+      avatar: https://img-blog.csdnimg.cn/202006061227422.png
+      descr: 超强it问题解决网站
+    8:
+      name: segmentfault
+      link: https://segmentfault.com/
+      avatar: https://tse3-mm.cn.bing.net/th/id/OIP.CxCmZMcs_u1gt2ej_ymbHQHaEO?w=222&h=160&c=7&o=5&dpr=1.5&pid=1.7
+      descr: 新晋IT社区，高质量解答
+    9:
+      name: 简书
+      link: https://www.jianshu.com/
+      avatar: https://tse2-mm.cn.bing.net/th/id/OIP.-j1SUjkdD8-wUqiPI6AzFwHaHa?w=208&h=197&c=7&o=5&dpr=1.5&pid=1.7
+      descr: 印象中内容质量很好
+    10:
+      name: 维基百科
+      link: https://www.wikipedia.org/
+      avatar: https://img-blog.csdnimg.cn/20200617003116198.png
+      descr: 全球搜索巨头
+    11:
+      name: baidu
+      link: https://www.baidu.com/
+      avatar: https://img-blog.csdnimg.cn/20200405161552709.png
+      descr: 能不用百度就不用百度 
+
+    
+class8:
+  class_name: 站长/开发/源码
+  link_list:
+    1:
+      name: 源码之家
+      link: https://www.mycodes.net/152/7747.htm
+      avatar: https://img-blog.csdnimg.cn/20200616210102689.png
+      descr: 源码
+    2:
+      name: html模板
+      link: http://www.html5code.net/sucai/html5/
+      avatar: https://csdnimg.cn/cdn/content-toolbar/csdn-logo.png?v=20200416.1
+      descr: html模板代码
+    3:
+      name: 源码素材网
+      link: http://www.codesc.net/source/4915.shtml
+      avatar: https://img-blog.csdnimg.cn/20200405163435834.png
+      descr:  源代码
+    4:
+      name: 吾爱破解
+      link: https://www.52pojie.cn/
+      avatar: https://img-blog.csdnimg.cn/20200616212800407.png
+      descr:  吾爱破解，破解软件大全
+    5:
+      name: 麦氪派
+      link: https://www.waitsun.com/jetbrains-app.html
+      avatar: https://img-blog.csdnimg.cn/20200616213027107.png
+      descr:  麦氪派，质量文章分享
+    6:
+      name: 西部数码
+      link: https://www.west.cn/docs/57779.html
+      avatar: https://img-blog.csdnimg.cn/20200616213150378.png)
+      descr:  西部数码，服务器，域名
+    7:
+      name: 分享网
+      link: https://www.hiai.top/othercode/
+      avatar: https://img-blog.csdnimg.cn/20200616213446481.png
+      descr:  分享网
+    8:
+      name: 码蚁之家
+      link: http://www.codes51.com/itwd/1239920.html
+      avatar: https://img-blog.csdnimg.cn/20200616213525306.png
+      descr:  码蚁之家，编程语言，开发
+    9:
+      name: 脚本之家
+      link: https://www.jb51.net/Special/983.htm
+      avatar: https://img-blog.csdnimg.cn/20200616213814773.png
+      descr:  编程语言，开发，源代码
+    10:
+      name: MSDN 我告诉你
+      link: http://msdn.itellyou.cn/
+      avatar: https://img-blog.csdnimg.cn/20200616214014199.png
+      descr:  技术，开发，工具，系统
+
+
+class9:
+  class_name: 刷题/题库
+  link_list:
+    1:
+      name: leetcode中文网
+      link: https://leetcode-cn.com/
+      avatar: https://img-blog.csdnimg.cn/20200405162420566.png
+      descr: 你说专不专业？   
+    2:
+      name: 牛客刷题
+      link: https://www.nowcoder.com/questionTerminal/1e6d1b87728c42de835baa620a86b77d
+      avatar: https://img-blog.csdnimg.cn/20200616183431459.png
+      descr: 题库/刷题
+    3:
+      name: 考试酷
+      link: https://www.examcoo.com/index/ku
+      avatar: https://img-blog.csdnimg.cn/20200616183636238.png
+      descr: 公共题库中心
+    4:
+      name: 高校题库网 
+      link: http://www.gxtiku.com/quest/326.html 
+      avatar: https://img-blog.csdnimg.cn/20200616202321271.png
+      descr: 高效题库网
+    5:
+      name: 网课查题库
+      link: http://tiku.71kpay.com/
+      avatar: https://img-blog.csdnimg.cn/20200616202321271.png
+      descr: 网课查题库
+
+
+
+
+
+
+
